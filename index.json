@@ -1,0 +1,105 @@
+[
+	{
+		"date": "Monday, November 14",
+		"phase": "full Moon",
+		"phase-date": "2016-11-14 13:52",
+		"perigee-date": "2016-11-14 11:24",
+		"distance": "356,511"
+	}, {
+		"date": "Thursday, May 25",
+		"phase": "new Moon",
+		"phase-date": "2017-05-25 19:44",
+		"perigee-date": "2017-05-26 01:24",
+		"distance": "357,209"
+	}, {
+		"date": "Saturday, June 24",
+		"phase": "new Moon",
+		"phase-date": "2017-06-24 02:31",
+		"perigee-date": "2017-06-23 10:50",
+		"distance": "357,937"
+	}, {
+		"date": "Sunday, December 3",
+		"phase": "full Moon",
+		"phase-date": "2017-12-03 15:47",
+		"perigee-date": "2017-12-04 08:43",
+		"distance": "357,495"
+	}, {
+		"date": "Tuesday, January 2",
+		"phase": "full Moon",
+		"phase-date": "2018-01-02 02:24",
+		"perigee-date": "2018-01-01 21:56",
+		"distance": "356,565"
+	}, {
+		"date": "Friday, July 13",
+		"phase": "new Moon",
+		"phase-date": "2018-07-13 02:48",
+		"perigee-date": "2018-07-13 08:30",
+		"distance": "357,431"
+	}, {
+		"date": "Saturday, August 11",
+		"phase": "new Moon",
+		"phase-date": "2018-08-11 09:58",
+		"perigee-date": "2018-08-10 18:06",
+		"distance": "358,082"
+	}, {
+		"date": "Monday, January 21",
+		"phase": "full Moon",
+		"phase-date": "2019-01-21 05:16",
+		"perigee-date": "2019-01-21 19:59",
+		"distance": "357,344"
+	}, {
+		"date": "Tuesday, February 19",
+		"phase": "full Moon",
+		"phase-date": "2019-02-19 15:53",
+		"perigee-date": "2019-02-19 09:07",
+		"distance": "356,761"
+	}, {
+		"date": "Saturday, September 28",
+		"phase": "new Moon",
+		"phase-date": "2019-09-28 18:26",
+		"perigee-date": "2019-09-28 02:28",
+		"distance": "357,802"
+	}, {
+		"date": "Monday, March 9",
+		"phase": "full Moon",
+		"phase-date": "2020-03-09 17:48",
+		"perigee-date": "2020-03-10 06:34",
+		"distance": "357,122"
+	}, {
+		"date": "Wednesday, April 8",
+		"phase": "full Moon",
+		"phase-date": "2020-04-08 02:35",
+		"perigee-date": "2020-04-07 18:10",
+		"distance": "356,908"
+	}, {
+		"date": "Friday, October 16",
+		"phase": "new  Moon",
+		"phase-date": "2020-10-16 19:31",
+		"perigee-date": "2020-10-16 23:48",
+		"distance": "356,912"
+	}, {
+		"date": "Sunday, November 15",
+		"phase": "new  Moon",
+		"phase-date": "2020-11-15 05:07",
+		"perigee-date": "2020-11-14 11:49",
+		"distance": "357,838"
+	}, {
+		"date": "Tuesday, April 27",
+		"phase": "full Moon",
+		"phase-date": "2021-04-27 03:31",
+		"perigee-date": "2021-04-27 15:25",
+		"distance": "357,378"
+	}, {
+		"date": "Wednesday, May 26",
+		"phase": "full Moon",
+		"phase-date": "2021-05-26 11:14",
+		"perigee-date": "2021-05-26 01:53",
+		"distance": "357,309"
+	}, {
+		"date": "Saturday, December 4",
+		"phase": "new Moon",
+		"phase-date": "2021-12-04 07:43",
+		"perigee-date": "2021-12-04 10:02",
+		"distance": "356,793"
+	}
+]

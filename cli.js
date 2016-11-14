@@ -25,9 +25,18 @@ let supermoon;
 
 supermoonDates.some(moon => {
 	if (new Date(moon['perigee-date']) > date) {
-		supermoon = moon;
-		return true;
+		if (phase) {
+			if (phase === moon.phase) {
+				supermoon = moon;
+				return true;
+			}
+		} else {
+			supermoon = moon;
+			return true;
+		}
 	}
+
+	return false;
 });
 
 function highlight(str) {

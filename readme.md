@@ -10,16 +10,6 @@ $ npm install --save supermoon-dates
 ```
 
 
-## Usage
-
-```js
-const supermoonDates = require('supermoon-dates');
-
-supermoonDates('unicorns');
-//=> 'unicorns & rainbows'
-```
-
-
 ## CLI
 
 ```

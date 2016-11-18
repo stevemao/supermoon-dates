@@ -17,19 +17,8 @@ $ npm install --global supermoon-dates
 ```
 
 ```
-$ supermoon-dates --help
-
-  Usage
-    supermoon-dates [input]
-
-  Options
-    --foo  Lorem ipsum. [Default: false]
-
-  Examples
-    $ supermoon-dates
-    unicorns & rainbows
-    $ supermoon-dates ponies
-    ponies & rainbows
+$ supermoon
+The next supermoon (new Moon) since Fri Nov 18 2016 15:34:03 GMT+1100 (AEDT) is on Thursday, May 25 at a distance of, approximately, 357,209 km from Earth.
 ```
 
 

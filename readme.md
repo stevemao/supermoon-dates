@@ -20,26 +20,6 @@ supermoonDates('unicorns');
 ```
 
 
-## API
-
-### supermoonDates(input, [options])
-
-#### input
-
-Type: `string`
-
-Lorem ipsum.
-
-#### options
-
-##### foo
-
-Type: `boolean`  
-Default: `false`
-
-Lorem ipsum.
-
-
 ## CLI
 
 ```
@@ -65,8 +45,8 @@ $ supermoon-dates --help
 
 ## Further reading
 
-[wikipedia](https://en.wikipedia.org/wiki/Supermoon)
-[Lunar Perigee and Apogee Calculator](https://www.fourmilab.ch/earthview/pacalc.html)
+- [wikipedia](https://en.wikipedia.org/wiki/Supermoon)
+- [Lunar Perigee and Apogee Calculator](https://www.fourmilab.ch/earthview/pacalc.html)
 
 
 ## Credit
